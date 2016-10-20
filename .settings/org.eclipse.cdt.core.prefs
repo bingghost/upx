@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/0.1828901003/UPX_LZMADIR/delimiter=\:
+environment/project/0.1828901003/UPX_LZMADIR/operation=replace
+environment/project/0.1828901003/UPX_LZMADIR/value=/Users/admin/Documents/workspace/upx/depends/lzma443
+environment/project/0.1828901003/UPX_LZMA_VERSION/delimiter=\:
+environment/project/0.1828901003/UPX_LZMA_VERSION/operation=append
+environment/project/0.1828901003/UPX_LZMA_VERSION/value=0x443
+environment/project/0.1828901003/UPX_UCLDIR/delimiter=\:
+environment/project/0.1828901003/UPX_UCLDIR/operation=append
+environment/project/0.1828901003/UPX_UCLDIR/value=/Users/admin/Documents/workspace/upx/depends/ucl-1.03
+environment/project/0.1828901003/append=true
+environment/project/0.1828901003/appendContributed=true

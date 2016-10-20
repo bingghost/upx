@@ -215,8 +215,10 @@ typedef acc_uintptr_t   upx_uintptr_t;
 #endif
 #if (WITH_UCL)
 #  define ucl_compress_config_t REAL_ucl_compress_config_t
-#  include <ucl/uclconf.h>
-#  include <ucl/ucl.h>
+//#  include <ucl/uclconf.h>
+//#  include <ucl/ucl.h>
+#  include "ucl/uclconf.h"
+#  include "ucl/ucl.h"
 #  if !defined(UCL_VERSION) || (UCL_VERSION < 0x010300L)
 #    error "please upgrade your UCL installation"
 #  endif
